@@ -8,6 +8,7 @@ A comprehensive, 4-week end-to-end Natural Language Processing (NLP) framework a
 * **Week 4 (Latent Language Topic Modeling):** Scaled an unsupervised LDA model to observe language shifts across narrative tiers. Discovered that as review lengths increase, plot-summary density drops significantly while deep **Emotional Response** prose scales up from **28.83% to 48.14%**.
 
 ## 📁 Repository Directory Structure
+```text
 ├── week1.docx                          # Milestone 1 Project Report
 ├── week2.docx                          # Milestone 2 Project Report
 ├── week3.docx                          # Milestone 3 Project Report
@@ -19,3 +20,4 @@ A comprehensive, 4-week end-to-end Natural Language Processing (NLP) framework a
 ├── sentiment_confusion_matrix.png       # Week 2 classification matrix
 ├── requirements.txt                     # Application dependency registry
 └── .gitignore                           # Prevents tracking massive local CSV datasets
+'''
